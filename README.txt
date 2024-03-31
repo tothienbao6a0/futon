@@ -1,4 +1,5 @@
-# Futon
+# Futon 
+
 ## Project Description 📜
 Visiting colleges? Get a Futon! Combining homestay-style dorm database, compatibility matchmaking, and social networking functionalities, the app provides users both a means to connect with others through hosting mutuals within their expanded friends network, and also through finding a place to stay without cost. Users can create a host profile and post their room on the map, along with details regarding facilities and accommodations that they can offer. On the other end, finders also make their profile, look at room postings around college campuses, and request to stay at locations. By using mutuals as a means of introduction and contact, we ensure the safety and trust between the host and the finder, while allowing the opportunity for new friendships and connections to form!
 
